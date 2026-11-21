@@ -1,0 +1,8 @@
+# genshin-modmenu runtime dependencies
+pywin32>=306; sys_platform == "win32"
+psutil>=5.9.8
+pymem>=1.13.0
+requests>=2.31.0
+pyyaml>=6.0.1
+rich>=13.7.0
+pythonnet>=3.0.3; sys_platform == "win32"
