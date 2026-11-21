@@ -1,0 +1,14 @@
+tick_interval: 0.016
+keybind:
+  menu: INSERT
+  panic: END
+overlay:
+  width: 480
+  height: 620
+  font: consolas
+features:
+  esp: false
+  aimbot: false
+patterns:
+  build_string: "47 65 6E 73 68 69 6E 49 6D 70 61 63 74 00"
+  entity_list: "48 8B 05 ?? ?? ?? ?? 48 8B 48 08 48 85 C9"
